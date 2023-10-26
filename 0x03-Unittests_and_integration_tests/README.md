@@ -42,5 +42,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 6. More patching
 * [x] 7. Parameterize
 * [x] 8. Integration test: fixtures
-* [ ] 9. Integration tests
-
+* [x] 9. Integration tests
